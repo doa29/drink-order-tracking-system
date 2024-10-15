@@ -9,3 +9,4 @@ public class Bar {
 		tab += beverage.getPrice();
 	}
 }
+
