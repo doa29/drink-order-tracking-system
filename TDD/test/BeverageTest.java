@@ -25,4 +25,5 @@ public class BeverageTest {
 		assertEquals(50, actual);
 	}
 
+	
 }
