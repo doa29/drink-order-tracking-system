@@ -15,4 +15,5 @@ public class Coffee extends Beverage {
 	public int getPrice() {
 		return COFFEECOST;
 	}
+	
 }
